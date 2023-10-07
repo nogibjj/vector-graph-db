@@ -51,7 +51,8 @@
 				"ms-toolsai.jupyter-renderers",
 				"ms-python.vscode-pylance",
 				"ms-python.python",
-				"ms-vscode.makefile-tools"
+				"ms-vscode.makefile-tools",
+				"amazonwebservices.aws-toolkit-vscode"
 			]
 		}
 	},
