@@ -15,6 +15,10 @@ docker run -p 6333:6333 -p 6334:6334 \
 ```
 * `cargo run --example search`
 
+
+![Screenshot 2023-10-08 at 10 21 09 AM](https://github.com/nogibjj/vector-graph-db/assets/58792/e94818a2-b915-4ebe-be5f-9a1eec96c8d6)
+
+
 ### Lab Task:  Extend Semantic Search
 
 Learning Objectives
